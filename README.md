@@ -1,0 +1,2 @@
+# Antminer_FPGA_board
+Antminer_ControlBoard_XC7Z010_V1.3
